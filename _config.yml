@@ -29,6 +29,7 @@ paginate_path: "/page:num/"
 navbar-links:
   Home: ""
   About Me: "aboutme"
+  Contact: "contact"
 nav-search: "search"
 
 # --- Footer options --- #
