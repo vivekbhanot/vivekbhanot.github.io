@@ -5,20 +5,31 @@ subtitle:
 comments: true
 ---
 
-Intrigued by rapidly evolving role of data, from business by-product to world's newest resource for competitive advantage, 
-I am deeply interested in being part of an organization which views data as corporate asset and is looking at either setting up from scratch or overhauling its information management system 
-with an ultimate objective of deriving maximum value out of data.
+Vivek is currently serving as Business Intelligence Director in VPBank, Vietnam. 
+As a widely recognized BI proponent in the bank, he is tasked with the responsibility of realizing 
+CEO’s long-term vision of transforming VPBank into “data-driven bank”. Under his leadership, VPBank became 
+an industry pioneer with two major firsts - implementing a comprehensive Data Governance mechanism and setting 
+up a BI Competency Center (BICC). 
 
-Solid banking experience in a dynamic emerging economy 
-where I used my strong planning & execution skills to build & manage teams engaged in; 
-framing & implementing award winning data management strategies and providing invaluable decision analytics to stakeholders.
+The Data Governance program of the bank garnered international recognition 
+after receiving TDWI (The Data Warehousing Institute, USA) “Best Practices Award” in 2015. 
+BICC, which was established in 2014, was ranked no. 1 unit in the bank in “Excellence in Internal Customer Service” 
+category for 3 consecutive years (2014-2016) since its inception.
 
-I have proven expertise in assessing business requirements, generating options & implementing 
-solutions with a keen eye on maximizing returns. 
-Meticulous in my approach, I operate with a sense of urgency and thrive in a fast paced setting. 
+Serving on the bank’s Board of Management, Vivek has been instrumental in putting 
+BI into business executives’ agenda. He was awarded a letter of appreciation from 
+the Chairman of VPBank’s Board of Directors for outstanding contribution to bank’s success 2 years in a row.
+Vivek has spent more than 8 years working in Vietnam during which he built and 
+managed award winning teams engaged in - framing & implementing sound data management strategies and 
+providing invaluable decision analytics to stakeholders. 
 
-I regularly deliver talks at conferences around the region sharing my knowledge & experience in areas like Data Governance, 
-Data Warehousing, Business Intelligence, Business Analytics (Predictive Modelling), MIS & Reporting, CRM etc.
+A top rated speaker at conferences, Vivek has vast experience in areas like Data Governance, 
+Data Warehousing, Business Intelligence, Business Analytics, MIS & Reporting, CRM, etc. 
+His data-driven approach and framework for organizations has featured in Journal of Digital Banking 
+published by Henry Stewart Publications, UK.
+
+Vivek lives in Hanoi with his wife Nguyen Thi Thu and two daughters, Arianna & Alysha. 
+
 ---
 
 ## Honors and Awards
