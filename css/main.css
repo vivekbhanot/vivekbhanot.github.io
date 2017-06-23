@@ -415,7 +415,7 @@ footer .theme-by {
   }
   .intro-header.big-img {
     width: 100%;
-    height: 550px;
+    height: 220px;
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading {
@@ -427,7 +427,7 @@ footer .theme-by {
 } 
 @media only screen and (max-width: 325px) { 
   .intro-header.big-img {
-    height: 550px;
+    height: 220px;
   }
 }
 
@@ -855,7 +855,7 @@ pre code {
   }
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 220px) {
   #scroll-box {
     padding: 10px 10px 5px;
   }
