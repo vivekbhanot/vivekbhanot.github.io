@@ -8,7 +8,8 @@ baseurl: ""
 
 # Brief name and description of the site
 title: Vivek Bhanot
-description: "Data Governance, Data Management, BI & Analytics Professional."
+subtitle: Data Governance, Data Management, BI & Analytics Professional
+description: "Data Governance, Data Management, BI & Analytics Professional"
 
 # --- Outputting options --- #
 # More information can be found on Jekyll's site
