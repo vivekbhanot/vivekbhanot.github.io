@@ -4,7 +4,7 @@
   margin: 0 0 40px;
   padding: 20px 0;
   box-shadow: 0 0 5px #AAA;
-  height: 550px
+  height: 550px;
 }
 @media only screen and (max-width: 365px) {
   .header-section.has-img .big-img {
