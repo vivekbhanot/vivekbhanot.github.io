@@ -9,6 +9,7 @@
 @media only screen and (max-width: 365px) {
   .header-section.has-img .big-img {
     margin-bottom: 0;
+	height: 550px;
   }
 }
 
