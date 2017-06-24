@@ -28,14 +28,14 @@ Data Warehousing, Business Intelligence, Business Analytics, MIS & Reporting, CR
 His data-driven approach and framework for organizations has featured in Journal of Digital Banking 
 published by Henry Stewart Publications, UK.
 
-Vivek lives in Hanoi with his wife Nguyen Thi Thu and two daughters, Arianna & Alysha. 
+Vivek lives in Hanoi with his wife and three daughters. 
 
 ---
 
 ## Honors and Awards
 
-- BICC ranked no. 1 in the bank for excellence in internal customer service within VPBank for 3 years (2014, 2015, 2016)
-- TDWI 2015 Best Practices Award for Enterprise Data Management 
+- BICC ranked no. 1 in the VPBank for excellence in internal customer service for 3 consecutive years (2014, 2015, 2016)
+- VPBank won The Data Warehousing Institute (TDWI) 2015 Best Practices Award for Enterprise Data Management at their annual conference in San Diego, USA
 - BICC recognized by Retail Banking Division of VPBank for exemplary BI/Analytics service
 
 ## Speaking engagements
