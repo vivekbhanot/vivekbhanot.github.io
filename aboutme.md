@@ -50,6 +50,6 @@ Vivek lives in Hanoi with his wife and three daughters.
 ## Publications
 
 - [How to transform your bank into a data-driven organisation?](https://www.henrystewartpublications.com/jdb/v1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BjDs%2BWSHaSQq%2FqxKDuy0OUA%3D%3D)
-- [Data Governance - getting it right](https://www.linkedin.com/pulse/data-governance-getting-right-vivek-bhanot)
+- [Data Governance - Getting it right!](https://www.linkedin.com/pulse/data-governance-getting-right-vivek-bhanot)
 
 ---
