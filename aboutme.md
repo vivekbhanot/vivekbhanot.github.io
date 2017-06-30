@@ -6,7 +6,7 @@ comments: true
 ---
 
 Vivek is currently serving as Business Intelligence Director in VPBank, Vietnam. 
-As a widely recognized BI proponent in the bank, he is tasked with the responsibility of realizing 
+As a widely recognized BI & Analytics proponent in the bank, he is tasked with the responsibility of realizing 
 CEO’s long-term vision of transforming VPBank into “data-driven bank”. Under his leadership, VPBank became 
 an industry pioneer with two major firsts - implementing a comprehensive Data Governance mechanism and setting 
 up a BI Competency Center (BICC). 
@@ -17,7 +17,7 @@ BICC, which was established in 2014, was ranked no. 1 unit in the bank in “Exc
 category for 3 consecutive years (2014-2016) since its inception.
 
 Serving on the bank’s Board of Management, Vivek has been instrumental in putting 
-BI into business executives’ agenda. He was awarded a letter of appreciation from 
+Analytics into business executives’ agenda. He was awarded a letter of appreciation from 
 the Chairman of VPBank’s Board of Directors for outstanding contribution to bank’s success 2 years in a row.
 Vivek has spent more than 8 years working in Vietnam during which he built and 
 managed award winning teams engaged in - framing & implementing sound data management strategies and 
