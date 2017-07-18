@@ -28,7 +28,7 @@ paginate_path: "/page:num/"
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Gallery: ""
+  Gallery: "gallery.html"
   Contact: "contact"
 nav-search: "search"
 
