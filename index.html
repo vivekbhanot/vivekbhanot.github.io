@@ -5,75 +5,49 @@ subtitle: "   "
 css: "/css/index.css"
 meta-title: "Data Governance, Data Management, BI & Analytics Professional."
 meta-description: "Data Governance, Data Management, BI & Analytics Professional."
+bigimg:
+  - "/img/big-imgs/img1.jpg" : "BankTech Asia Conference, Jakarta, Indonesia (2016)"
+  - "/img/big-imgs/img2.jpg" : "BankTech Asia Conference, Jakarta, Indonesia (2016)"
+  - "/img/big-imgs/img3.jpg" : "BankTech Asia Conference, Jakarta, Indonesia (2016)"
+  - "/img/big-imgs/img4.jpg" : "BankTech Asia Conference, Jakarta, Indonesia (2016)"
+  - "/img/big-imgs/img5.jpg" : "The Asian Banker Summit - Hanoi, Vietnam (2016)"
 ---
 
-<div class="container" role="main">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <p>Vivek is currently serving as Business Intelligence Director in VPBank, Vietnam. 
-As a widely recognized BI &amp; Analytics proponent in the bank, he is tasked with the responsibility of realizing 
-CEO’s long-term vision of transforming VPBank into “data-driven bank”. Under his leadership, VPBank became 
-an industry pioneer with two major firsts - implementing a comprehensive Data Governance mechanism and setting 
-up a BI Competency Center (BICC).</p>
+<div class="posts-list">
+  {% for post in paginator.posts %}
+  <article>
+    <a class="post-preview" href="{{ post.url | prepend: site.baseurl }}">
+	    <h2 class="post-title">{{ post.title }}</h2>
+	
+	    {% if post.subtitle %}
+	    <h3 class="post-subtitle">
+	      {{ post.subtitle }}
+	    </h3>
+	    {% endif %}
+      <p class="post-meta">
+        Posted on {{ post.date | date: "%B %-d, %Y" }}
+      </p>
 
-<p>The Data Governance program of the bank garnered international recognition 
-after receiving TDWI (The Data Warehousing Institute, USA) “Best Practices Award” in 2015. 
-BICC, which was established in 2014, was ranked no. 1 unit in the bank in “Excellence in Internal Customer Service” 
-category for 3 consecutive years (2014-2016) since its inception.</p>
-
-<p>Serving on the bank’s Board of Management, Vivek has been instrumental in putting 
-Analytics into business executives’ agenda. He was awarded a letter of appreciation from 
-the Chairman of VPBank’s Board of Directors for outstanding contribution to bank’s success 2 years in a row.
-Vivek has spent more than 8 years working in Vietnam during which he built and 
-managed award winning teams engaged in - framing &amp; implementing sound data management strategies and 
-providing invaluable decision analytics to stakeholders.</p>
-
-<p>A top rated speaker at conferences, Vivek has vast experience in areas like Data Governance, 
-Data Warehousing, Business Intelligence, Business Analytics, MIS &amp; Reporting, CRM, etc. 
-His data-driven approach and framework for organizations has featured in Journal of Digital Banking 
-published by Henry Stewart Publications, UK.</p>
-
-<p>Vivek lives in Hanoi with his wife and three daughters.</p>
-
-<hr>
-
-<h2 id="honors-and-awards">Honors and Awards</h2>
-
-<ul>
-  <li>BICC ranked no. 1 in the VPBank for excellence in internal customer service for 3 consecutive years (2014, 2015, 2016)</li>
-  <li>VPBank won The Data Warehousing Institute (TDWI) 2015 Best Practices Award for Enterprise Data Management at their annual conference in San Diego, USA</li>
-  <li>BICC recognized by Retail Banking Division of VPBank for exemplary BI/Analytics service</li>
-</ul>
-
-<h2 id="speaking-engagements">Speaking engagements</h2>
-
-<ul>
-  <li>BankTech Asia Conference, Kuala Lumpur, Malaysia (26-27 May, 2015)</li>
-  <li>Back Office Forum Asia, Kuala Lumpur, Malaysia (18-19 Nov, 2015)</li>
-  <li>The Future of Digital Banking Conference, Singapore (15-16 Mar, 2016)</li>
-  <li>The Asian Banker Summit, Hanoi (10-12 May, 2016)</li>
-  <li>BankTech Asia Conference, Jakarta, Indonesia (24-25 Aug, 2016)</li>
-  <li>BankTech Asia Conference, Colombo, Sri Lanka (21-22 Mar, 2017)</li>
-</ul>
-
-<h2 id="publications">Publications</h2>
-
-<ul>
-  <li><a href="https://www.henrystewartpublications.com/jdb/v1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BjDs%2BWSHaSQq%2FqxKDuy0OUA%3D%3D">How to transform your bank into a data-driven organisation?</a></li>
-  <li><a href="https://www.linkedin.com/pulse/data-governance-getting-right-vivek-bhanot">Data Governance - Getting it right!</a></li>
-</ul>
-
-<hr>
-
-	  
-      <div class="disqus-comments">
-	    
-
+      <div class="post-entry">
+        {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
+        <span href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</span>
       </div>
-	  
-    </div>
-  </div>
+    </a>  
+   </article>
+  {% endfor %}
 </div>
 
-
-
+{% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="next">
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}

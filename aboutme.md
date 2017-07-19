@@ -6,7 +6,7 @@ comments: true
 ---
 
 Vivek is currently serving as Business Intelligence Director in VPBank, Vietnam. 
-As a widely recognized BI & Analytics proponent in the bank, he is tasked with the responsibility of realizing 
+As a widely recognized BI proponent in the bank, he is tasked with the responsibility of realizing 
 CEO’s long-term vision of transforming VPBank into “data-driven bank”. Under his leadership, VPBank became 
 an industry pioneer with two major firsts - implementing a comprehensive Data Governance mechanism and setting 
 up a BI Competency Center (BICC). 
@@ -17,7 +17,7 @@ BICC, which was established in 2014, was ranked no. 1 unit in the bank in “Exc
 category for 3 consecutive years (2014-2016) since its inception.
 
 Serving on the bank’s Board of Management, Vivek has been instrumental in putting 
-Analytics into business executives’ agenda. He was awarded a letter of appreciation from 
+BI into business executives’ agenda. He was awarded a letter of appreciation from 
 the Chairman of VPBank’s Board of Directors for outstanding contribution to bank’s success 2 years in a row.
 Vivek has spent more than 8 years working in Vietnam during which he built and 
 managed award winning teams engaged in - framing & implementing sound data management strategies and 
@@ -28,14 +28,14 @@ Data Warehousing, Business Intelligence, Business Analytics, MIS & Reporting, CR
 His data-driven approach and framework for organizations has featured in Journal of Digital Banking 
 published by Henry Stewart Publications, UK.
 
-Vivek lives in Hanoi with his wife and three daughters. 
+Vivek lives in Hanoi with his wife Nguyen Thi Thu and two daughters, Arianna & Alysha. 
 
 ---
 
 ## Honors and Awards
 
-- BICC ranked no. 1 in the VPBank for excellence in internal customer service for 3 consecutive years (2014, 2015, 2016)
-- VPBank won The Data Warehousing Institute (TDWI) 2015 Best Practices Award for Enterprise Data Management at their annual conference in San Diego, USA
+- BICC ranked no. 1 in the bank for excellence in internal customer service within VPBank for 3 years (2014, 2015, 2016)
+- TDWI 2015 Best Practices Award for Enterprise Data Management 
 - BICC recognized by Retail Banking Division of VPBank for exemplary BI/Analytics service
 
 ## Speaking engagements
@@ -50,6 +50,6 @@ Vivek lives in Hanoi with his wife and three daughters.
 ## Publications
 
 - [How to transform your bank into a data-driven organisation?](https://www.henrystewartpublications.com/jdb/v1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BjDs%2BWSHaSQq%2FqxKDuy0OUA%3D%3D)
-- [Data Governance - Getting it right!](https://www.linkedin.com/pulse/data-governance-getting-right-vivek-bhanot)
+- [Data Governance - getting it right](https://www.linkedin.com/pulse/data-governance-getting-right-vivek-bhanot)
 
 ---
