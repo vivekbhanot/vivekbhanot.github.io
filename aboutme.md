@@ -50,7 +50,6 @@ Vivek lives in Hanoi with his wife Nguyen Thi Thu and two daughters, Arianna & A
 ## Publications
 
 - [How to transform your bank into a data-driven organisation?](https://www.henrystewartpublications.com/jdb/v1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BjDs%2BWSHaSQq%2FqxKDuy0OUA%3D%3D)
- - [Data-driven organization: Looking beyond technology] (https://www.linkedin.com/pulse/data-driven-organization-looking-beyond-technology-vivek-bhanot)
 - [Data Governance - Doing it right!](https://www.linkedin.com/pulse/data-governance-doing-right-vivek-bhanot)
 
 ---
