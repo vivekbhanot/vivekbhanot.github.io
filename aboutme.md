@@ -48,7 +48,7 @@ their annual conference in San Diego, USA
 
 - BICC recognized by Retail Banking Division of VPBank for exemplary BI/Analytics service in 2014
 
-## Speaking engagements 2
+## Speaking engagements
 
 - BankTech Asia Conference, Kuala Lumpur, Malaysia (26-27 May, 2015)
 - Back Office Forum Asia, Kuala Lumpur, Malaysia (18-19 Nov, 2015)
@@ -59,7 +59,7 @@ their annual conference in San Diego, USA
 - Next BigTech Asia Conference/Workshop, Kuala Lumpur, Malaysia (12-16 Mar, 2018)
 - Human Resources Development Fund (HRDF) Conference, Kuala Lumpur, Malaysia (19 Mar, 2018)
 
-## Publications 3
+## Publications
 
 - [How to transform your bank into a data-driven organisation?](https://www.henrystewartpublications.com/jdb/v1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BjDs%2BWSHaSQq%2FqxKDuy0OUA%3D%3D)
 - [Data Governance - Doing it right!](https://www.linkedin.com/pulse/data-governance-doing-right-vivek-bhanot)
