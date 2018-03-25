@@ -36,11 +36,8 @@ Vivek lives in Hanoi with his wife and three daughters.
 ## Honors and Awards
 
 - Vivek Bhanot awarded "VPBank Transformation Star - Gold Award" by the Board of Directors for substantial effort and contribution to the bank's transformation (2012-2017)
-
 - BICC ranked no. 1 support unit in VPBank for excellence in internal customer service for 4 consecutive years (2014, 2015, 2016, 2017)
-
 - VPBank won The Data Warehousing Institute (TDWI) 2015 Best Practices Award for Enterprise Data Management at their annual conference in San Diego, USA
-
 - BICC recognized by Retail Banking Division of VPBank for exemplary BI/Analytics service in 2014
 
 ## Speaking engagements
